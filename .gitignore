@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LiveTesting
+/LiveTestingDriver/bin/Debug/net7.0
+/LiveTestingDriver/obj
+/LiveTestingLib/.vs
+/LiveTestingLib/bin/Debug/net7.0
+/LiveTestingLib/obj
+/Tests/bin/Debug/net7.0
+/Tests/obj
